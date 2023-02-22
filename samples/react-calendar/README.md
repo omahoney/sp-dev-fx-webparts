@@ -86,6 +86,11 @@ The Web Part checks the user's permissions for the View, Add, Edit, and Delete e
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.10.0](https://img.shields.io/badge/SPFx-1.10.0-green.svg)
 ![Node.js v10](https://img.shields.io/badge/Node.js-v10-green.svg) 
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -110,19 +115,17 @@ Calendar list| Choice/Dropdown | yes|  this is filled with all list of  type "ev
 Start Date | Date | yes | Event Date
 End Date| Date| yes | Event Date
 
-## Solution
+## Contributors
 
 The Web Part Use PnPjs library, Office-ui-fabric-react components. react Big-Calendar Component
 
-Solution|Author(s)
---------|---------
-Calendar Web Part|[Abderahman Moujahid](https://github.com/Abderahman88)
-Calendar Web Part|[Eli H. Schei](https://github.com/Eli-Schei)
-Calendar Web Part|[Hugo Bernier](https://github.com/hugoabernier) ([@bernier](https://twitter.com/bernierh), [Tahoe Ninjas](https://tahoeninjas.blog/))
-Calendar Web Part|[João Mendes](https://github.com/joaojmendes)
-Calendar Web Part|[Mohamed Derhalli](https://github.com/derhallim)
-Calendar Web PArt|[Mohammed Amer](https://github.com/mohammadamer) ([@Mohammad3mer](https://twitter.com/Mohammad3mer), https://www.linkedin.com/in/mohammad3mer/)
-Calendar Web Part|[Nanddeep Nachan](https://github.com/nanddeepn) ([@NanddeepNachan](https://twitter.com/NanddeepNachan))
+* [Abderahman Moujahid](https://github.com/Abderahman88)
+* [Eli H. Schei](https://github.com/Eli-Schei)
+* [Hugo Bernier](https://github.com/hugoabernier) ([@bernier](https://twitter.com/bernierh), [Tahoe Ninja](https://tahoeninja.blog/))
+* [João Mendes](https://github.com/joaojmendes)
+* [Mohamed Derhalli](https://github.com/derhallim)
+* [Mohammed Amer](https://github.com/mohammadamer) ([@Mohammad3mer](https://twitter.com/Mohammad3mer), https://www.linkedin.com/in/mohammad3mer/)
+* [Nanddeep Nachan](https://github.com/nanddeepn) ([@NanddeepNachan](https://twitter.com/NanddeepNachan))
 
 ## Version history
 

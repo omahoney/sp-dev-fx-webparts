@@ -11,6 +11,11 @@ For detailed instructions on how to build this web part and the needed list plea
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.10](https://img.shields.io/badge/SPFx-1.10.0-green.svg) 
 ![Node.js v10 | v8](https://img.shields.io/badge/Node.js-v10%20%7C%20v8-green.svg) 
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -36,11 +41,9 @@ For detailed instructions on how to build this web part and the needed list plea
 4. Add items to your list making sure to set some to `yes` in the **Featured** column
 5. Navigate to your sites workbench (https://<tenant>.sharepoint.com/sites/<your site>/_layouts/15/workbench.aspx)
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-react-doccard-faq | [Sam Collins](https://github.com/SamC148) ([@samc148](https://twitter.com/samc148))
+* [Sam Collins](https://github.com/SamC148) ([@samc148](https://twitter.com/samc148))
 
 ## Version history
 

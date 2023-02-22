@@ -11,6 +11,11 @@ Displays information about a GitHub user.
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.8.2](https://img.shields.io/badge/SPFx-1.8.2-green.svg) 
 ![Node.js v10 | v8](https://img.shields.io/badge/Node.js-v10%20%7C%20v8-green.svg) 
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -25,12 +30,10 @@ Displays information about a GitHub user.
 * [SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
 * [Microsoft 365 tenant](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-react-github-badge | Hugo Bernier ([Tahoe Ninjas](http://tahoeninjas.blog), [@bernierh](https://www.twitter.com/bernierh))
-Converted from: [js-GitHubBadge](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/js-gitHubBadge) | Eric Skaggs [@skaggej](https://www.twitter.com/skaggej)
+* Hugo Bernier ([Tahoe Ninja](http://tahoeninja.blog), [@bernierh](https://www.twitter.com/bernierh))
+* Eric Skaggs [@skaggej](https://www.twitter.com/skaggej)
 
 ## Version history
 
@@ -56,7 +59,7 @@ This sample illustrates how to convert an existing Javascript-only SPFx web part
 
 A second web part (called `GitHub Badge v2`) demonstrates how to render the same data using a Fabric UI persona card.
 
-For more information about the conversion process, refer to this [blog article](https://tahoeninjas.blog/2019/04/19/converting-spfx-from-javascript-to-react/).
+For more information about the conversion process, refer to this [blog article](https://tahoeninja.blog/2019/04/19/converting-spfx-from-javascript-to-react/).
 
 
 ## Disclaimer

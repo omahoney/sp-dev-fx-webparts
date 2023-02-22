@@ -10,6 +10,11 @@ The web part can be configured to open the team on the web browser or client app
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.13.1](https://img.shields.io/badge/SPFx-1.13.1-green.svg) 
 ![Node.js v14](https://img.shields.io/badge/Node.js-v14-green.svg) 
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -26,12 +31,10 @@ The web part can be configured to open the team on the web browser or client app
 - Microsoft 365 subscription with SharePoint Online license
 - SharePoint Framework [development environment](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment) already set up.
 
-## Solution
+## Contributors
 
-| Solution       | Author(s)      |
-| -------------- | -------------- |
-| react-my-teams | Joel Rodrigues |
-| react-my-teams | [Yves Habersaat](https://github.com/yhabersaat) |
+* Joel Rodrigues
+* [Yves Habersaat](https://github.com/yhabersaat) |
 
 
 ## Version history

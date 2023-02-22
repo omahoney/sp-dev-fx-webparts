@@ -40,6 +40,11 @@ You can add as many screen shots as you'd like to help users understand your web
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is optimally compatible with specific versions of Node.js. In order to be able to build this sample, you need to ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 This sample is optimally compatible with the following environment configuration:
 
 ![SPFx 1.16.1](https://img.shields.io/badge/SPFx-1.16.1-green.svg)
@@ -51,7 +56,6 @@ This sample is optimally compatible with the following environment configuration
 ![Hosted Workbench Compatible](https://img.shields.io/badge/Hosted%20Workbench-Compatible-green.svg)
 ![Compatible with Remote Containers](https://img.shields.io/badge/Remote%20Containers-Compatible-green.svg)
 
-For more information about SPFx compatibility, please refer to https://aka.ms/spfx-matrix
 <!--
 
 If using SPFX 1.14, update the SPFx and Node.js tags as per below:
@@ -113,7 +117,7 @@ Don't worry if you're unsure about the compatibility matrix above. We'll verify 
 
 > Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/m365devprogram)
 
-## Solution
+## Contributors
 <!--
 We use this section to recognize and promote your contributions. Please provide one author per line -- even if you worked together on it.
 
@@ -122,11 +126,11 @@ We'll only use the info you provided here. Make sure to include your full name, 
 Provide a link to your GitHub profile to help others find more cool things you have done.
 
 If you provide a link to your Twitter profile, we'll promote your contribution on social media.
+
+If you do not update this information, you will not be listed 😞
 -->
 
-Solution|Author(s)
---------|---------
-folder name | [Author Name](LinkToYourGitHubProfile) ([@yourtwitterhandle](https://twitter.com/yourtwitterhandle)), Company
+* [Author Name](LinkToYourGitHubProfile) ([@yourtwitterhandle](https://twitter.com/yourtwitterhandle)), Company
 
 ## Version history
 

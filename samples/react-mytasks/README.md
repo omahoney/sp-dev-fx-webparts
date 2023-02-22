@@ -52,6 +52,11 @@ The user can search task by name, can filter by progress status, all data are dy
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.11](https://img.shields.io/badge/SPFx-1.11.0-green.svg)
 ![Node.js v10](https://img.shields.io/badge/Node.js-v10-green.svg)
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -74,13 +79,11 @@ Property |Type|Required| comments
 WebPart Title| Text| no|
  
 
-## Solution
+## Contributors
 
 The Web Part Use PnPjs library, Office-ui-fabric-react components and MSGraph API's
 
-Solution|Author(s)
---------|---------
-My Tasks |[João Mendes](https://github.com/joaojmendes)
+* [João Mendes](https://github.com/joaojmendes)
 My Tasks |[Swaminathan Sriram](https://github.com/Swaminathan-Sriram)
 
 ## Version history

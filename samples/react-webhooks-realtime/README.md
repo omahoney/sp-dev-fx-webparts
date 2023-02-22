@@ -26,6 +26,11 @@ The libraries used by this web part are Socket.io, sp pnp js, moment.
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.3.0](https://img.shields.io/badge/SPFx-1.3.0-green.svg)
 ![Node.js v6](https://img.shields.io/badge/Node.js-v6-green.svg) 
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -49,11 +54,9 @@ The libraries used by this web part are Socket.io, sp pnp js, moment.
 > * Create a new webhooks subscription for the SharePoint List **Events** (that will be installed by running the script **ProvisioningArtifacts.ps1**), as you prefer, across your solution or Postman, please read the following guideline to achieve this goal [https://learn.microsoft.com/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks](https://learn.microsoft.com/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks)
 > * The web part has been developed (GetChanges API) to notify new items added in the **Events** list
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-react-webhooks-realtime|[Giuliano De Luca](https://github.com/giuleon) ([@giuleon](https://twitter.com/giuleon) , [www.delucagiuliano.com](delucagiuliano.com))
+* [Giuliano De Luca](https://github.com/giuleon) ([@giuleon](https://twitter.com/giuleon) , [www.delucagiuliano.com](delucagiuliano.com))
 
 
 ## Version history

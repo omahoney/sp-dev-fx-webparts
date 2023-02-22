@@ -10,6 +10,11 @@ This SPFx Outlook Add-In lets users save any email attachments to a OneDrive fol
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.13.0](https://img.shields.io/badge/SPFx-1.13.0-green.svg)
 ![Node.js v14 | v12](https://img.shields.io/badge/Node.js-v14%20%7C%20v12-green.svg) 
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -31,11 +36,9 @@ This web part illustrates the below features for creating Outlook Add-Ins using 
 * Use Microsoft Graph to retrieve complete mail `mimestream` by given `ID`
 * Use Microsoft Graph to save normal or big files (in size bigger 4MB) with different concepts
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-react-save-attachments | [Aakash Bhardwaj](https://github.com/aakashbhardwaj619) ([@aakash_316](https://twitter.com/aakash_316))
+* [Aakash Bhardwaj](https://github.com/aakashbhardwaj619) ([@aakash_316](https://twitter.com/aakash_316))
 
 ## Version history
 

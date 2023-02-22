@@ -8,6 +8,11 @@ This is an application that supports Questions & Answers through a web part that
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.11](https://img.shields.io/badge/SPFx-1.11.0-green.svg)
 ![Node.js v10](https://img.shields.io/badge/Node.js-v10-green.svg)
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -28,11 +33,9 @@ This is an application that supports Questions & Answers through a web part that
 * Office 365 subscription with SharePoint Online
 * SharePoint Framework [development environment](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment) set up
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-react-questions-and-answers | Bo George ([@bo_george](https://twitter.com/bo_george)), Mike Homol ([@homol](https://twitter.com/homol))
+* Bo George ([@bo_george](https://twitter.com/bo_george)), Mike Homol ([@homol](https://twitter.com/homol))
 
 ## Version history
 

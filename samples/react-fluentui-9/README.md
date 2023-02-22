@@ -9,7 +9,12 @@ This demos the use of the new [Fluent UI version 9](https://github.com/microsoft
 
 ## Compatibility
 
-![SPFx 1.16.0](https://img.shields.io/badge/SPFx-1.16-green.svg)
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
+![SPFx 1.16.1](https://img.shields.io/badge/SPFx-1.16.1-green.svg)
 ![Node.js v16](https://img.shields.io/badge/Node.js-v16-green.svg)
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
 ![Does not work with SharePoint 2019](https://img.shields.io/badge/SharePoint%20Server%202019-Incompatible-red.svg "SharePoint Server 2019 requires SPFx 1.4.1 or lower")
@@ -24,7 +29,7 @@ This demos the use of the new [Fluent UI version 9](https://github.com/microsoft
 * [SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
 * [Microsoft 365 tenant](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 
-> Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
+> Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/m365devprogram)
 
 
 ## Applies to
@@ -32,13 +37,11 @@ This demos the use of the new [Fluent UI version 9](https://github.com/microsoft
 - [SharePoint Framework](https://aka.ms/spfx)
 - [Microsoft 365 tenant](https://learn.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
 
-> Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
+> Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/m365devprogram)
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-react-fluentui-9 | [Nick Brown](https://github.com/techienickb) ([@techienickb](https://twitter.com/techienickb) / [Jisc](https://jisc.ac.uk))
+* [Nick Brown](https://github.com/techienickb) ([@techienickb](https://twitter.com/techienickb) / [Jisc](https://jisc.ac.uk))
 
 ## Version history
 
@@ -46,7 +49,7 @@ Version|Date|Comments
 -------|----|--------
 1.0|April 20, 2022|Initial release
 1.0.1|November 14, 2022|Updated to SPFx 15, latest Fluent UI 9, shim based theme mapping
-1.0.2|November 16, 2022| 
+1.0.2|January 18, 2023|Updated SPFx 16.1
 
 - Clone this repository (or [download this solution as a .ZIP file](https://pnp.github.io/download-partial/?url=https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-fluentui-9) then unzip it)
 - From your command-line, change your current directory to the directory containing this sample (`react-fluentui-9`, located under `samples`)

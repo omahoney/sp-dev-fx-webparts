@@ -9,6 +9,11 @@ This sample describe a SPFx application which retrieve an office 365 usage repor
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 ![SPFx 1.8](https://img.shields.io/badge/SPFx-1.8.0-green.svg) 
 ![Node.js v8](https://img.shields.io/badge/Node.js-v8-green.svg) 
 ![Compatible with SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-Compatible-green.svg)
@@ -28,11 +33,9 @@ This sample describe a SPFx application which retrieve an office 365 usage repor
 > You need following set of permissions in order to retrieve office 365 usage reports. Find out more about consuming the [Microsoft Graph API in the SharePoint Framework](https://learn.microsoft.com/sharepoint/dev/spfx/use-aad-tutorial)<br><br>![Microsoft Graph API Permissions](./assets/graph-api-permissions-usage-reports.png) 
 
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-react-graph-reports | [Ejaz Hussain](https://github.com/ejazhussain)
+* [Ejaz Hussain](https://github.com/ejazhussain)
 
 ## Version history
 

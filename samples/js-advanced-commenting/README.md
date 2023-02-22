@@ -40,6 +40,11 @@
 
 ## Compatibility
 
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
 This sample is optimally compatible with the following environment configuration:
 
 ![SPFx 1.15.2](https://img.shields.io/badge/SPFx-1.15.2-green.svg)
@@ -64,11 +69,9 @@ For more information about SPFx compatibility, please refer to <https://aka.ms/s
  
 None
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-SPFxPageComments | [Sudharsan K.](https://github.com/sudharsank) ([@sudharsank](https://twitter.com/sudharsank), [Know More](http://windowssharepointserver.blogspot.com/))
+* [Sudharsan K.](https://github.com/sudharsank) ([@sudharsank](https://twitter.com/sudharsank), [Know More](http://windowssharepointserver.blogspot.com/))
 
 ## Version history
 

@@ -24,7 +24,12 @@ This web part allows to search and view the YouTube videos, across the YouTube A
 
 ## Compatibility
 
-This sample is designed to be used in the following enviroments:
+| :warning: Important          |
+|:---------------------------|
+| Every SPFx version is only compatible with specific version(s) of Node.js. In order to be able to build this sample, please ensure that the version of Node on your workstation matches one of the versions listed in this section. This sample will not work on a different version of Node.|
+|Refer to <https://aka.ms/spfx-matrix> for more information on SPFx compatibility.   |
+
+This sample is designed to be used in the following environments:
 
 ![SPFx 1.11](https://img.shields.io/badge/SPFx-1.11.0-green.svg) 
 ![Node.js v10](https://img.shields.io/badge/Node.js-v10-green.svg) 
@@ -47,15 +52,10 @@ For more information about SPFx compatibility, please refer to https://aka.ms/sp
  
 > Is necessary to have a google developer API key in order to perform REST API call
 
-## Solution
+## Contributors
 
-Solution|Author(s)
---------|---------
-react-YouTube|Giuliano De Luca ([@giuleon](https://twitter.com/giuleon) , [www.delucagiuliano.com](https://delucagiuliano.com))
-
-Solution|Contributor(s)
---------|---------
-react-YouTube|Ravi Chandra ([@ravi_maniyani](https://twitter.com/ravi_maniyani) , [www.netwoven.com](https://netwoven.com))
+* Giuliano De Luca ([@giuleon](https://twitter.com/giuleon) , [www.delucagiuliano.com](https://delucagiuliano.com))
+* Ravi Chandra ([@ravi_maniyani](https://twitter.com/ravi_maniyani) , [www.netwoven.com](https://netwoven.com))
 
 ## Version history
 
